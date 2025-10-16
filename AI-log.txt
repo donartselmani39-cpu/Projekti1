@@ -1,6 +1,5 @@
 Prompt: "Shpjego si të krijoj një repository në GitHub."
 Përgjigjja: Përshkrimi i shkurtuar nga AI...
 
-2025-10-20
 Prompt: "Si të shtoj README në projekt?"
 Përgjigjja: ...
